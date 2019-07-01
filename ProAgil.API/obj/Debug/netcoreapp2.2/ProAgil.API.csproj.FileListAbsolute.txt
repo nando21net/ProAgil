@@ -3,6 +3,10 @@ C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.runti
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.runtimeconfig.dev.json
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.dll
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.pdb
+C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.Domain.dll
+C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.Repository.dll
+C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.Domain.pdb
+C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.Repository.pdb
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csprojAssemblyReference.cache
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csproj.CoreCompileInputs.cache
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorAssemblyInfo.cache
@@ -10,5 +14,6 @@ C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.Razor
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.AssemblyInfoInputs.cache
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.AssemblyInfo.cs
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorTargetAssemblyInfo.cache
+C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csproj.CopyComplete
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.dll
 C:\ASP.NET-CORE\DOTNETCORE\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.pdb
