@@ -32,7 +32,7 @@ namespace ProAgil.API.Controllers
             }
             catch (System.Exception ex)
             {
-                return this.StatusCode(StatusCodes.Status500InternalServerError, $"Banco Dados Falhou {ex.Message}");
+                return this.StatusCode(StatusCodes.Status500InternalServerError, $"Banco Dados Falhou  {ex.Message}");
             }
         }
 
